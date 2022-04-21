@@ -1,2 +1,2 @@
 # Calculator
-Input must be in a single line using the operators mentioned (+ , - , * , / , ^)
+Input must be in a single line, only using the operators mentioned (+ , - , * , / , ^)
